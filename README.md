@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0605-can-place-flowers](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0350-intersection-of-two-arrays-ii) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
