@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
