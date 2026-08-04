@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/0724-find-pivot-index) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sriharshachandaluri/My-Leetcode-Progress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
